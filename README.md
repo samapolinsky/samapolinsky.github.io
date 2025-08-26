@@ -9,10 +9,10 @@ Repository: [Clothing Lending App](https://github.com/samapolinsky/clothing-lend
 ## Skills
 ### Programming Languages
 Java, Python
-Currently learning: C, JavaScript
+(Currently learning: C, JavaScript)
 ### Frameworks
 Django
-Currently learning: React
+(Currently learning: React)
 ### Tools and Platforms
 Git, GitHub
-Currently learning: ArcGIS
+(Currently learning: ArcGIS)

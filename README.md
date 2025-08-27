@@ -1,5 +1,5 @@
 # Samantha Apolinsky's homepage
-Bookmark this to keep an eye on my project updates!
+Hello! My name is Samantha Apolinsky and I am a third year student at the University of Virginia. I am double majoring in computer science and environmental science, with a strong interest in developing technical solutions to environmental problems. 
 
 ## Projects
 ### Clothing Lending App

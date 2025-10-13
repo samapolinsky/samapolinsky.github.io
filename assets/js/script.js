@@ -156,5 +156,5 @@ for (let j = 0; j < navigationLinks.length; j++) {
         }
 
     });
-    console.log(pages[i].classList);
+    console.log(pages[j].classList);
 }

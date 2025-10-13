@@ -1,10 +1,8 @@
 'use strict';
 
 
-
 // element toggle function
 const elementToggleFunc = function (elem) { elem.classList.toggle("active"); }
-
 
 
 // sidebar variables
@@ -158,4 +156,5 @@ for (let i = 0; i < navigationLinks.length; i++) {
         }
 
     });
+    console.log(pages[i].classList);
 }

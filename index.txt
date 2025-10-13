@@ -11,21 +11,11 @@ Show Contacts
 Email
 richard@example.com
 
-Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
-
-Location
-Sacramento, California, USA
-
 # navbar
 
 About
 Resume
 Portfolio
-Blog
 Contact
 
 # about

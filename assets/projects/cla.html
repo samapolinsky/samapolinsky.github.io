@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Project - Clothing Lending App</title>
+
+    <!--
+      - favicon
+    -->
+    <link rel="shortcut icon" href="./assets/images/favicon.ico" type="image/x-icon">
+
+    <!--
+      - custom css link
+    -->
+    <link rel="stylesheet" href="./assets/css/style.css">
+
+    <!--
+      - google font link
+    -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+<main>
+    <!--
+      - #SIDEBAR
+    -->
+    <aside class="sidebar" data-sidebar>
+        <div class="sidebar-info">
+            <figure class="avatar-box">
+                <img src="./assets/images/Headshot.jpeg" alt="Samantha Apolinsky" width="80">
+            </figure>
+            <div class="info-content">
+                <h1 class="name" title="Samantha Apolinsky">Samantha Apolinsky</h1>
+                <p class="title">CS & EnviSci Student</p>
+            </div>
+            <button class="info_more-btn" data-sidebar-btn>
+                <span>Show Contacts</span>
+                <ion-icon name="chevron-down"></ion-icon>
+            </button>
+        </div>
+        <div class="sidebar-info_more">
+            <div class="separator"></div>
+            <ul class="contacts-list">
+                <li class="contact-item">
+                    <div class="icon-box">
+                        <ion-icon name="mail-outline"></ion-icon>
+                    </div>
+                    <div class="contact-info">
+                        <p class="contact-title">Email</p>
+                        <a href="mailto:samantha.apolinsky@gmail.com" class="contact-link">samantha.apolinsky@gmail.com</a>
+                    </div>
+                </li>
+            </ul>
+            <div class="separator"></div>
+            <ul class="social-list">
+                <li class="social-item">
+                    <a href="https://www.linkedin.com/in/samantha-apolinsky-669601248/" class="social-link">
+                        <ion-icon name="logo-linkedin"></ion-icon>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </aside>
+
+    <!--
+      - #main-content
+    -->
+    <div class="main-content">
+        <div class="title">Clothing Lending App</div>
+        <div class="about-text">
+            Partnered with a Scrum team of 5 to develop a Cataloging & Lending app for clothing items. Users can
+            upload items to loan, request to borrow items, create collections, and specify user permissions.
+        </div>
+        <div class="about-text">
+            Implemented with Django backend, PostgreSQL database, and deployed on Heroku.
+        </div>
+        <div class="about-text">
+            Applied critical thinking and collaborative problem-solving to devise solutions in a simulated SWE team.
+        </div>
+    </div>
+    <div class="project-img">
+        <div class="project-item-icon-box">
+            <ion-icon name="eye-outline"></ion-icon>
+        </div>
+        <img src="../images/cla_homepage.png" alt="finance" loading="lazy">
+    </div>
+</main>
+</body>

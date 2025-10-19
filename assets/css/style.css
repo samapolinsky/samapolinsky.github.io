@@ -56,16 +56,16 @@
 
     /* solid */
 
-    --jet: hsl(0, 0%, 22%);
-    --onyx: hsl(240, 1%, 17%);
-    --eerie-black-1: hsl(240, 2%, 13%);
-    --eerie-black-2: hsl(240, 2%, 12%);
-    --smoky-black: hsl(0, 0%, 7%);
+    --jet: hsl(93, 29%, 37%);
+    --onyx: hsl(89, 29%, 23%);
+    --eerie-black-1: hsl(89, 29%, 26%);
+    --eerie-black-2: hsl(91, 28%, 34%);
+    --smoky-black: hsl(49, 49%, 93%);
     --white-1: hsl(0, 0%, 100%);
     --white-2: hsl(0, 0%, 98%);
     --orange-yellow-crayola: hsl(45, 100%, 72%);
     --vegas-gold: hsl(45, 54%, 58%);
-    --light-gray: hsl(0, 0%, 84%);
+    --light-gray: hsl(0, 0%, 92%);
     --light-gray-70: hsla(0, 0%, 84%, 0.7);
     --bittersweet-shimmer: hsl(0, 43%, 51%);
 
@@ -474,7 +474,7 @@ main {
     bottom: 0;
     left: 0;
     width: 100%;
-    background: hsla(240, 1%, 17%, 0.75);
+    background: hsl(89, 29%, 26%);
     backdrop-filter: blur(10px);
     border: 1px solid var(--jet);
     border-radius: 12px 12px 0 0;
